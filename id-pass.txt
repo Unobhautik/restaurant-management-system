@@ -1,0 +1,16 @@
+Team VBUK
+Viral 21bt04107
+Bhautik  21bt04093
+Urvi  21bt04130
+Krut  21bt04102
+
+
+For user access
+username:"user" password:"user"
+
+For staff access
+username:"admin" password:"123456789"
+
+For admin access
+username:"admin1" password:"vbuk12345"
+username:"vbuk" password:"admin12345"
